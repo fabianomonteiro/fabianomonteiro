@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu espaço no GitHub! 🌌
 
-Olá, sou o **Fabiano Monteiro** – especialista em desenvolvimento de software com mais de 20 anos de experiência, apaixonado pela inovação e totalmente comprometido em compartilhar conhecimento. Para mim, escrever código vai além de resolver problemas: é criar soluções que impactam vidas e inspiram a comunidade.
+Olá, sou o **Fabiano Monteiro** – especialista em desenvolvimento de software com mais de 20 anos de experiência, apaixonado pela inovação e totalmente comprometido em compartilhar conhecimento e fortalecer a comunidade de desenvolvedores. Para mim, escrever código vai além de resolver problemas: é criar soluções que impactam vidas e inspiram a comunidade.
 
 ---
 
