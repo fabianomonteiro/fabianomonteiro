@@ -21,6 +21,7 @@ Quer trocar ideias? Siga-me ou entre em contato nas minhas redes e vamos convers
 
 * 💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/fabiano-monteiro-dev) – para conectar profissionalmente e acompanhar minha jornada.
 * 🤳 &nbsp;[Instagram](https://instagram.com/_fabianomonteiro_) – um pouco mais sobre a vida por trás do código.
+* 🌐 &nbsp;[Meu Site Pessoal](https://fabianomonteiro.github.io/) – explore mais sobre meu trabalho e interesses.
 
 ---
 
